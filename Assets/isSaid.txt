@@ -1,0 +1,13 @@
+ 
+{
+	“speechscript”: [
+		{
+			“duration”: 5,
+			“says”: “This is a text JSON”
+		}, 
+		{
+			“duration”: 10.
+			“says” : “It be saying things”
+		}
+	]
+}

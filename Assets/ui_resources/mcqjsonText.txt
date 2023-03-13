@@ -1,0 +1,36 @@
+{
+	"quizlist": [
+	    {
+	    	"question": "What is a plant?",
+			"answers": ["blue liquid", "green alive", "black solid", "margit the fell", "test"],
+	    	"cor": 2,
+			"qi": 0
+	    }, 
+        {
+	    	"question": "define plantwear",
+			"answers": ["plants that you wear", "plants that wear you", "4.87 million", "i plead the fifth", "please work"],
+	    	"cor": 1,
+			"qi": 1
+	    }, 
+        {
+	    	"question": "are plants good?",
+			"answers": ["no", "prolly not", "only on thursdays", "yes, according to science", "test", "test1"],
+	    	"cor": 4,
+			"qi": 2
+	    },
+		{
+			"question": "are plants bad?",
+			"answers": ["why", "probably", "provably not", "this was just asked"],
+	    	"cor": 3,
+			"qi": 3
+		},
+		{
+			"question": "¿Disfrutarías de una planta?",
+			"answers": ["si", "no", "quizas", "quieres", "don't break", "don't do it"],
+	    	"cor": 1,
+			"qi": 4
+		}
+		
+    ]
+}
+	

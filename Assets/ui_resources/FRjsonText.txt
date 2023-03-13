@@ -1,0 +1,17 @@
+{
+	"quizlist": [
+	    {
+	    	"question": "What is two plus two",
+	    	"cor": 2
+	    }, 
+        {
+	    	"question": "What is three plus three",
+	    	"cor": 1
+	    }, 
+        {
+	    	"question": "What is two",
+	    	"cor": 4
+	    } 
+    ]
+}
+	

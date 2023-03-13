@@ -1,0 +1,13 @@
+{
+    "prompts": [
+        {
+            "prompt": "This is a prompt"
+        },
+        {
+            "prompt": "this also be a prompt"
+        },
+        {
+            "prompt": "this be the last prompt for now"
+        }
+    ]
+}

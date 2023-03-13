@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Object Detection.unity
+    guid: f9f370a412672024dadcd75c19b79cd6
+  - enabled: 0
+    path: Assets/Scenes/Andy_Scenes/FarmWear_AR_Scene.unity
+    guid: aab6ebddd0e59274496cde2259eb32f2
+  - enabled: 0
+    path: Assets/Scenes/Andy_Scenes/basic_farmwear_scene.unity
+    guid: c4dc81c53d3918f4a8f07a9e2ac9a310
+  - enabled: 0
+    path: Assets/Scenes/Andy_Scenes/QuizScene.unity
+    guid: 6b564ac7a4f3aaf40a0c72b690b4130a
+  - enabled: 0
+    path: Assets/Scenes/Andy_Scenes/journalScene.unity
+    guid: 0126e3f751c97f84993133b3e8463c5a
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 9e98cfedcdb74434b9fcd9faf03b63f8,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 7bc0bdf8b38cce647b88e3f1a454145b,
+      type: 2}
+    com.needle.xr.management.arsimulation_loader: {fileID: 11400000, guid: 01412b32a4c6636438a72559e776df18,
+      type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 22d0f17af3e9e184898feca66eb01ef9,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 36a93f041001c8a468732b82a6826670, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 7f28c3895adf21d499883a3b3ea70e26, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: f3f040a6079bd5647ab9583ddba56ed1,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 8b3897ba5540fc14d9d93c9874781bf8,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a8951d0bb71cbad4b90ebe03ea9fcd95,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0b270cf2cb470644684f0caa8e791ab5,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: b1ce4ef290d3eb54a8c70433c4641792,
+      type: 2}
